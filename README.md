@@ -1,7 +1,7 @@
 # Projeto simples Android Composable para explorar viewModel
 
 
-## UI não autiliza quando estado do viewModel muda ? por isso esse projeto
+## UI não atualiza quando estado do viewModel muda ? por isso esse projeto
 Nos projetos do google eles fazer referência ao uiState de várias formas para cada unidade de treinamento.
 
 Essa forma foi a mais simples (AppViewModel).
